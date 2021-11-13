@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly old stone house
+* source:	https://sketchfab.com/3d-models/low-poly-old-stone-house-f325d9f0b3784c3cab348f8d543bbb92
+* author:	Hamerl0k (https://sketchfab.com/Hamerlok)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly old stone house" (https://sketchfab.com/3d-models/low-poly-old-stone-house-f325d9f0b3784c3cab348f8d543bbb92) by Hamerl0k (https://sketchfab.com/Hamerlok) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boston Airport Scene
+* source:	https://sketchfab.com/3d-models/boston-airport-scene-e345d492d83c4cce8e9265df3e1ab151
+* author:	emijar (https://sketchfab.com/emijar)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boston Airport Scene" (https://sketchfab.com/3d-models/boston-airport-scene-e345d492d83c4cce8e9265df3e1ab151) by emijar (https://sketchfab.com/emijar) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	MOTORCYCLE SIDECAR FBX 2021
+* source:	https://sketchfab.com/3d-models/motorcycle-sidecar-fbx-2021-f94544aa2b3f48caa3d6fa9311bc61ef
+* author:	Jan Vančík (https://sketchfab.com/janvancik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MOTORCYCLE SIDECAR FBX 2021" (https://sketchfab.com/3d-models/motorcycle-sidecar-fbx-2021-f94544aa2b3f48caa3d6fa9311bc61ef) by Jan Vančík (https://sketchfab.com/janvancik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

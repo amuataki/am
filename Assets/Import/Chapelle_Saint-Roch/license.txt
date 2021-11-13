@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chapelle Saint-Roch
+* source:	https://sketchfab.com/3d-models/chapelle-saint-roch-30d0074817af44b395e0d812284d1175
+* author:	slyworld (https://sketchfab.com/slyworld)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chapelle Saint-Roch" (https://sketchfab.com/3d-models/chapelle-saint-roch-30d0074817af44b395e0d812284d1175) by slyworld (https://sketchfab.com/slyworld) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

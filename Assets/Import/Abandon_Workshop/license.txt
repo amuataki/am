@@ -1,0 +1,11 @@
+Model Information:
+* title:	Abandon Workshop
+* source:	https://sketchfab.com/3d-models/abandon-workshop-e082bc4b8ed347c0b9a1a9d75e84f67f
+* author:	Thunder (https://sketchfab.com/thunderpwn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Abandon Workshop" (https://sketchfab.com/3d-models/abandon-workshop-e082bc4b8ed347c0b9a1a9d75e84f67f) by Thunder (https://sketchfab.com/thunderpwn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

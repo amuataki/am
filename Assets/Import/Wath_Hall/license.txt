@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wath Hall
+* source:	https://sketchfab.com/3d-models/wath-hall-399b5b7d1be640b9803a23010176d8b5
+* author:	CT Aerial Surveys (https://sketchfab.com/CTAerialSurveys)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wath Hall" (https://sketchfab.com/3d-models/wath-hall-399b5b7d1be640b9803a23010176d8b5) by CT Aerial Surveys (https://sketchfab.com/CTAerialSurveys) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
